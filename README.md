@@ -25,11 +25,6 @@ scikit-learn
    - `account_attributes.xlsx`
    - `account_usage.xlsx`
 
-2. Run the analysis:
-   ```python
- AnswerForceData.ipynb
-   ```
-
 ## Output
 
 - Conversion rate statistics
