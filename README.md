@@ -27,7 +27,7 @@ scikit-learn
 
 2. Run the analysis:
    ```python
-   python conversion_analysis.py
+ AnswerForceData.ipynb
    ```
 
 ## Output
